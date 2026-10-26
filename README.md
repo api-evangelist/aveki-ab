@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Aveki AB is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.aveki.se
+Aveki AB is a Swedish technology company delivering digital solutions for municipalities and public sector organisations. Their platform supports water and energy management, geographic information systems, and various public service applications, enabling efficient data handling, integration, and operational oversight across local government services.
+
+**Areas:** Company · Swedish · PublicSector · MunicipalTech · WaterManagement
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.aveki.se)
+- [Documentation](https://help.aveki.se/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/aveki-ab/](https://apis.io/providers/aveki-ab/).
